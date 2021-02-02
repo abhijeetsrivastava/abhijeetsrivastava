@@ -1,0 +1,13 @@
+#+STARTUP: fold
+#+TITLE: README
+
+Hi there 👋
+
+- 🔭 I’m currently working at ﻿BXBDigital, Brambles company.
+  - I am a Lead Software Developer in Brambles where I am responsible for
+    creating and maintaining a scalable, with high performance, data intensive
+    application.
+- 📫 How to reach me: ...
+  - On https://www.linkedin.com/in/notabhijeet/
+- ⚡ About me:
+  - Animal lover, runner and a software engineer.

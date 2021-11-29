@@ -3,10 +3,9 @@
 
 Hi there 👋
 
-- 🔭 I’m currently working at ﻿BXBDigital, Brambles company.
-  - I am a Lead Software Developer in Brambles where I am responsible for
-    creating and maintaining a scalable, with high performance, data intensive
-    application.
+- 🔭 I’m currently working at Oracle Cloud Infrastructure
+   - I'm part of oci functions team which is akin to AWS lambda.
+   - This is a really exciting work and I am doing awesome things.
 - 📫 How to reach me: ...
   - On https://www.linkedin.com/in/notabhijeet/
 - ⚡ About me:

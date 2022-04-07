@@ -16,3 +16,10 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 📫 How to reach me: ...
   - On https://www.linkedin.com/in/notabhijeet/
+
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
+ </a>
+
+[linkedin]: https://www.linkedin.com/in/notabhijeet/
+[gmail]: mailto:abhisri003+github@gmail.com

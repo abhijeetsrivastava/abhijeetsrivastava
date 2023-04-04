@@ -5,7 +5,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
   - I'm working at PaytmBank as a Senior Technical Lead.
   - I am a dad, runner and a software engineer.
   
-📋 History
+📋 Background
 - 🔭 I was working at Oracle Cloud Infrastructure.
 - I have worked in projects which dealt with Data Intensive Application, also availability problems.
 
@@ -18,7 +18,6 @@ Contact details: +91-9100783981
 I am available on whatsapp, Facetime, telegram using the same number.
 <br>
 <br>
-
 
 [linkedin]: https://www.linkedin.com/in/notabhijeet/
 [gmail]: mailto:abhisri003+github@gmail.com

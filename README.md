@@ -24,4 +24,4 @@ I am available on whatsapp, Facetime, telegram using the same number.
 [gmail]: mailto:abhisri003+github@gmail.com
 
 
-[![Abhijeets's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhijeets's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetsrivastava)](https://github.com/anuraghazra/github-readme-stats)

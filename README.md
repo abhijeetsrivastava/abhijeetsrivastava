@@ -22,3 +22,6 @@ I am available on whatsapp, Facetime, telegram using the same number.
 
 [linkedin]: https://www.linkedin.com/in/notabhijeet/
 [gmail]: mailto:abhisri003+github@gmail.com
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)

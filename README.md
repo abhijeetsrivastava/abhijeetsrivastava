@@ -22,5 +22,3 @@ I am available on whatsapp, Facetime, telegram using the same number.
 [linkedin]: https://www.linkedin.com/in/notabhijeet/
 [gmail]: mailto:abhisri003+github@gmail.com
 
-
-[![Abhijeets's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetsrivastava)](https://github.com/anuraghazra/github-readme-stats)

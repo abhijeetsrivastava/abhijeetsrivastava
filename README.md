@@ -14,9 +14,6 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 [<img align="left" alt="notabhijeet | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="abhisri003+github | Gmail" width="22px" src="./gmail.svg" />][gmail]
 <br>
-
-Contact details: +91-9100783981
-I am available on whatsapp, Facetime, telegram using the same number.
 <br>
 <br>
 
